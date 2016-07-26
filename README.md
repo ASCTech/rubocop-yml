@@ -2,9 +2,9 @@
 
 A common rubocop configuration for ASCTech ruby projects
 
-# Getting Started
+## Getting Started
 
-Add the following to your projects .rubocop.yml
+Add the following to your project's `.rubocop.yml`
 
 ```
 inherit_from:
