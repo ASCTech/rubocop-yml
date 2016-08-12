@@ -1,7 +1,2 @@
-AllCops:
-  Exclude:
-    - 'vendor/**/*'
-    - 'tmp/**/*'
-
-Metrics/LineLength:
-  Enabled: false
+inherit_from:
+  - https://raw.githubusercontent.com/rails/rails/master/.rubocop.yml
