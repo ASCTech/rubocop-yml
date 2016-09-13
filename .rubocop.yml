@@ -6,3 +6,8 @@ AllCops:
     - 'bin/*'
     - 'db/migrate/*'
     - 'db/schema.rb'
+    - 'config/boot.rb'
+    - 'config/application.rb'
+    - 'config/environments/*'
+    - 'config.ru'
+    - 'Rakefile'
