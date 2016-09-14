@@ -9,5 +9,6 @@ AllCops:
     - 'config/boot.rb'
     - 'config/application.rb'
     - 'config/environments/*'
+    - 'config/environment.rb'
     - 'config.ru'
     - 'Rakefile'
